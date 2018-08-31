@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Client {
 
-    private static String apiEndpoint = "https://ex.zhigui.com";
+    private static String apiEndpoint = "http://47.99.71.124";
     private static String host = getHost();
 
     private static String key;
